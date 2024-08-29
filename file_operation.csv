@@ -1,0 +1,4 @@
+source_dir,destination_dir,new_name,date,time
+/path/to/source1,/path/to/destination1,new_file1.txt,2024-09-01,14:00
+/path/to/source2,/path/to/destination2,new_file2.txt,2024-09-02,10:30
+/path/to/source3,/path/to/destination3,new_file3.txt,2024-09-03,16:45
